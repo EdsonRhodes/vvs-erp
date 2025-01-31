@@ -1,0 +1,71 @@
+Desenvolvimento Full Stack web.
+
+Descrição
+
+Projeto desenvolvido em C# para [breve descrição do objetivo do projeto].
+
+Tecnologias Utilizadas
+
+C#
+
+.NET [versão]
+
+[Outras tecnologias, se aplicável]
+
+Requisitos
+
+.NET SDK [versão]
+
+[Outros requisitos, se necessário]
+
+Instalação
+
+Clone o repositório:
+
+git clone https://github.com/seu-usuario/NomeDoProjeto.git
+
+Acesse a pasta do projeto:
+
+cd NomeDoProjeto
+
+Restaure as dependências:
+
+dotnet restore
+
+Compile o projeto:
+
+dotnet build
+
+Como Executar
+
+Para executar o projeto, utilize o comando:
+
+dotnet run
+
+Estrutura do Projeto
+
+NomeDoProjeto/
+│-- src/
+│   │-- Program.cs
+│   │-- [outros arquivos]
+│-- tests/
+│   │-- NomeDoProjeto.Tests.csproj
+│-- NomeDoProjeto.sln
+│-- README.md
+
+Contribuição
+
+Fork o repositório
+
+Crie um branch para sua funcionalidade: git checkout -b minha-feature
+
+Faça as alterações e commit: git commit -m "Minha nova feature"
+
+Envie para o repositório remoto: git push origin minha-feature
+
+Abra um Pull Request
+
+Licença
+
+Projetos para estudantes 
+contrubições Luiz Carlos Edson, Ana, Willian, Vitor.
